@@ -1,7 +1,7 @@
 # StarStream
 
 **Description:**
-Movie Explorer is a full-stack web application designed to allow users to search for and explore detailed information about movies. This application integrates a React-based frontend with a Node.js/Express backend and leverages MongoDB for data storage. It also utilizes The Movie Database (TMDB) API to fetch movie data.
+FilmScope is a full-stack web application designed to allow users to search for and explore detailed information about movies. This application integrates a React-based frontend with a Node.js/Express backend and leverages MongoDB for data storage. It also utilizes The Movie Database (TMDB) API to fetch movie data.
 
 ### Key Features:
 
